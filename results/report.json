@@ -1,0 +1,128 @@
+{
+  "documents": 101,
+  "runs_by_machine": [
+    {
+      "host": "169.254.37.177",
+      "books": 1
+    },
+    {
+      "host": "2c305e065b86",
+      "books": 1
+    },
+    {
+      "host": "50bb3c723e16",
+      "books": 101
+    },
+    {
+      "host": "8487ac65b448",
+      "books": 3
+    },
+    {
+      "host": "MacBook-Pro.local",
+      "books": 3
+    },
+    {
+      "host": "ip-172-31-28-166",
+      "books": 100
+    },
+    {
+      "host": "udc-aw37-1",
+      "books": 101
+    }
+  ],
+  "last_processed": [
+    {
+      "_id": "pg996.txt",
+      "author": "Miguel de Cervantes Saavedra",
+      "bucket": "public-yvw3nq",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-28-166",
+          "at": "2026-11-02 19:31:27.547000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-17 00:37:04.484000",
+          "job": "23053652_101"
+        },
+        {
+          "host": "50bb3c723e16",
+          "at": "2026-11-17 15:17:17.858000"
+        }
+      ],
+      "title": "Don Quixote",
+      "unique_words": 15574,
+      "vocabulary_ratio": 0.0359,
+      "word_count": 433304,
+      "llm_analysis": {
+        "summary": "- Setting: Set in Spain, particularly around the 16th century.\n- Main Characters: Don Quixote, a mad knight, and Sancho Panza, his loyal squire.\n- Plot Summary: Don Quixote, inspired by medieval chivalry stories, decides to ride off as a knight and falls in love with Dulcinea, a woman he believes to be a princess. However, he encounters numerous comedic and tragic misadventures, including battles with windmills, enchanted objects, and misunderstandings.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-17 00:37:04.484000"
+      }
+    },
+    {
+      "_id": "pg98.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-yvw3nq",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-28-166",
+          "at": "2026-11-02 19:31:27.242000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-17 00:36:41.030000",
+          "job": "23053652_100"
+        },
+        {
+          "host": "50bb3c723e16",
+          "at": "2026-11-17 15:17:17.090000"
+        }
+      ],
+      "title": "A Tale of Two Cities",
+      "unique_words": 9698,
+      "vocabulary_ratio": 0.07,
+      "word_count": 138490,
+      "llm_analysis": {
+        "summary": "Jerry Cruncher, a young messenger at Tellson's Bank, receives a mysterious package containing a letter from Mr. Jarvis Lorry, a lawyer. Intrigued, Jerry decides to investigate.",
+        "genre": "mystery",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-17 00:36:41.030000"
+      }
+    },
+    {
+      "_id": "pg963.txt",
+      "author": "Charles Dickens",
+      "bucket": "public-yvw3nq",
+      "language": "English",
+      "runs": [
+        {
+          "host": "ip-172-31-28-166",
+          "at": "2026-11-02 19:31:27.024000"
+        },
+        {
+          "host": "udc-aw37-1",
+          "at": "2026-11-17 00:36:41.690000",
+          "job": "23053652_99"
+        },
+        {
+          "host": "50bb3c723e16",
+          "at": "2026-11-17 15:17:16.710000"
+        }
+      ],
+      "title": "Little Dorrit",
+      "unique_words": 14784,
+      "vocabulary_ratio": 0.0428,
+      "word_count": 345231,
+      "llm_analysis": {
+        "summary": "Mr Arthur Clennam arrives in London from Marseilles, where he witnessed a tragic event involving a ship sinking. He meets his estranged mother, Mrs Clennam, who is confined to her room due to health issues. During their reunion, Mr Clennam learns about his father's death and the financial troubles of the family. Mrs Clennam reveals that her husband, Jeremiah Flintwinch, proposes marriage to her despite their shared past.",
+        "genre": "historical fiction",
+        "model": "Qwen/Qwen2.5-1.5B-Instruct",
+        "at": "2026-11-17 00:36:41.690000"
+      }
+    }
+  ]
+}
